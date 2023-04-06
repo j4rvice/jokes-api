@@ -2,7 +2,7 @@
 
 * This api returns a random jokes each time you call it
 
-* link to the (jokes-api)[https://jokes-api.gamhcrew.repl.co]
+* link to the [jokes-api](https://jokes-api.gamhcrew.repl.co)
 
 * getting the response of the api in shell :
 ```shell
