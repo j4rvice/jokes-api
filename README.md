@@ -9,7 +9,7 @@
 curl https://jokes-api.gamhcrew.repl.co
 ```
 
-# using the api in python
+## using the api in python
 * install requests library in python using the command below
 ```shell
 pip install requests
